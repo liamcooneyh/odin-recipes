@@ -5,4 +5,4 @@ The website will consist of a main inded pages and will have a few links to othe
 
 This assignment will test basic HTML and CSS knowledge.
 
-Website is at: https://liamcooneyh.github.io/odin-recipes
+Website is at: https://liamcooneyh.github.io/odin-recipes/index.html
